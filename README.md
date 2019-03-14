@@ -1,7 +1,7 @@
 # Pseudoinverse Matrix Finder
 Java form application to find pseudoinverse (Moore-Penrose inverse) matrix of given non-square matrix without using any library. I used least squares method to find pseudoinverse matrix.
 
-NetBeans 8.2 IDE with JDK 8u191 and IntelliJ IDEA with JDK 11.0.1, Swing and AWT APIs as GUI used to development.
+I used NetBeans 8.2 IDE with JDK 8u191 and IntelliJ IDEA with JDK 11.0.1, Swing and AWT APIs as GUI.
 
 #### Main Screen
 
